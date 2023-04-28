@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Кот ученый</title>
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/4016/4016912.png" type="img.png">
+    <style>
+        h1 {
+            color: brown;
+            font-size: 200%;
+            font-style: inherit;
+            text-align: center
+        }
+
+        h2 {
+            color: chocolate;
+            font-size: 100%;
+            font-style: inherit;
+            text-align: center
+        }
+
+        .fig {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body bgcolor="#FFF8DC">
+    <h1>Кот ученый</h1>
+    <h2>С ним твоя домашка всегда под контролем</h2>
+    <p class="fig"><img
+            src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2ae9cbf1-f51e-4b76-aeed-d3e3552b561e%2FUntitled.png?table=block&id=0866bcbe-bac5-482a-bb69-3f0c31772ece&cache=v2"
+            alt="кот в очках" width="600" height="600"></p>
+    <p style="color: saddlebrown;"> <b>Кот ученый - важный участник твоего процесса обучения </b></p>
+    <span style="color: maroon;"> Все домашниe задания мы отправляем на <span> <a
+                href="https://itgirlschool.web.app/">платформе.</a></span>
+        <br> А ученый кот <span>😻</span> все нам проверяет и дает фидбек, главное, не забыть написать ему в личку в
+        <span><a href="https://slack.com/"> слаке</a></span>
+    </span>
+</body>
+
+</html>

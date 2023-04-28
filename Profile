@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Баринова Елена Александровна</title>
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3795/3795330.png" type="img.png">
+    <style>
+        h1 {
+            color: #2F4F4F;
+        }
+    </style>
+</head>
+
+<body bgcolor="#FFF8DC">
+
+    <h1> Баринова Елена Александровна</h1>
+    <img src="https://sun1-94.userapi.com/impg/krVkjAKAdQjFwiMTp7ynQ3i26dQwDeiMYhaW9A/VDQ1ss5FRXw.jpg?size=200x250&quality=96&sign=4d04848eb0d00481409c33bc9a90bb3c&c_uniq_tag=jhi_OIU47r1YdYOyChCT6rh772LXTSw_8S8pw7fqBOk&type=album"
+        alt="Лена">
+    <div style="color: #2F4F4F;">
+        <p> <b>Несколько фактов обо мне:</b></p>
+
+        <li>Менеджер проектов</li>
+        <li>Занимаюсь тверком уже 2 года</li>
+        <li>Люблю серфинг</li>
+        <li>Учусь играть в теннис</li>
+        <li>Обожаю бег</li>
+        <li>Спортзал второй дом</li>
+        <li>Катаюсь на скейте</li>
+        <li>Закончила филфак</li>
+        <li>Учусь на Frontend-разработчика в <span> <a href="https://itgirlschool.com/">лучшей школе для девочек</a>
+            </span>
+        </li>
+        <span>
+            <p> <b>Ссылки на мои социальные сети:</b></p>
+            <ol>
+                <li><span><a href="https://vk.com/teen668">Вконтакте
+                    </span></a>
+                <li><span><a href="https://instagram.com/elenohmygod?igshid=YmMyMTA2M2Y=">Инстаграм
+                    </span></a>
+
+
+                </li>
+            </ol>
+        </span>
+    </div>
+</body>
+
+</html>
